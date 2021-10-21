@@ -1,0 +1,6 @@
+margin bottom  post-header (reduce)
+delete h5 (universidad de los andes)
+post title margin-top (increase)
+profile img box-shadow 0 0 5px
+contaction font-size (45px) <- css:375    margin (-10px)
+.social border-top (delete)
