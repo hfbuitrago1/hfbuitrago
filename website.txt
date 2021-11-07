@@ -1,0 +1,18 @@
+assets
+  css
+    main.css
+    style.css
+  img
+    headshot.jpg
+
+cv
+  cv.pdf
+
+research
+  index.html
+
+teaching
+  index.html
+
+README.md
+index.html
