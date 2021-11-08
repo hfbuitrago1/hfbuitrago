@@ -1,7 +1,8 @@
-margin bottom  post-header (reduce)
-delete h5 (universidad de los andes)
-post title margin-top (increase)
+margin bottom  post-header (reduce) X
+delete h5 (universidad de los andes) X
+post title margin-top (5px) font-size (37px) X
 profile img box-shadow 0 0 5px
 contaction font-size (45px) <- css:375    margin (-10px)
-.social border-top (delete)
+.social border-top (delete) X
 change color to from #333 to #424242
+504 hover to #000000 or delete
